@@ -1,0 +1,11 @@
+# testdata.yaml
+
+address: https://test-stand.gb.ru
+sleep_time: 3
+browser_name: chrome
+
+login: Testovich13
+passwd: 41502dcd87
+title: NEW POST
+description: SELENIUM HERE!
+content: THIS IS CONTENT BY SELENIUM!
